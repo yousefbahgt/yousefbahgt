@@ -1,6 +1,7 @@
 &lt;div align="center"&gt;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yousef+Bahgt;Electronics+%26+Communications+Engineer;AI+%7C+Penetration+Testing;Always+learning+new+things!)](https://git.io/typing-svg)
+# Hi 👋, I'm Yousef Bahgt
+### Electronics & Communications Engineer | AI | Penetration Testing
 
 &lt;p&gt;
 &lt;a href="https://www.linkedin.com/in/yousef-bahgt/" target="_blank"&gt;
