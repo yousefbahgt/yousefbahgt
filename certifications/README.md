@@ -47,7 +47,7 @@ This directory contains my verified certifications in **Cybersecurity**, **Artif
 
 ---
 
-## 🤖 🤖 Artificial Intelligence & Generative AI
+## 🤖 Artificial Intelligence & Generative AI
 
 | Certification | Organization | Credential |
 | --- | --- | --- |
