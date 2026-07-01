@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Yousef Bahgt
 
-### Electronics & Communications Engineering Student | AI | Penetration Testing
+### Electronics & Communications Engineering Student | Cybersecurity | Artificial Intelligence
 
 <p>
 <a href="https://www.linkedin.com/in/yousef-bahgt/" target="_blank">
@@ -26,15 +26,32 @@
 
 # 👨‍💻 About Me
 
-🎓 Electronics & Communications Engineering Student at Obour Institutes
+🎓 Electronics & Communications Engineering Student at **Obour Institutes**
 
-💡 Passionate about AI + Penetration Testing
+💡 Passionate about **Cybersecurity**, **Artificial Intelligence**, and **Embedded Systems**
 
 🔐 Currently focusing on:
 
 - Penetration Testing
-- Artificial Intelligence
-- LLM (Large Language Models)
+- Artificial Intelligence & LLMs
+- Embedded Systems
+- IoT Security
+
+---
+
+# 📜 Certifications
+
+I maintain a dedicated collection of my verified certifications in:
+
+- 🔐 Cybersecurity & Ethical Hacking
+- 🌐 Networking & Systems
+- ☁️ Cloud Computing
+- 💻 Programming
+- 🤖 Artificial Intelligence & Generative AI
+
+📂 **Browse all certifications here:**
+
+➡️ **https://github.com/yousefbahgt/yousefbahgt/tree/master/certifications**
 
 ---
 
@@ -59,11 +76,12 @@
 - Vulnerability Assessment
 - Penetration Testing
 
-## AI & Machine Learning
+## Artificial Intelligence
 
 - Python
-- TensorFlow / PyTorch
-- LLM (Large Language Models)
+- TensorFlow
+- PyTorch
+- Large Language Models (LLMs)
 
 ---
 
@@ -71,50 +89,39 @@
 
 ## 🤖 AI Robot Arm
 
-- Hand Tracking using AI
-- Python + Arduino serial communication
-- Motion recording and replay
-- Voice control
+- AI-based Hand Tracking
+- Python & Arduino Serial Communication
+- Motion Recording & Replay
+- Voice Control
 
-## 🏠 Smart Home System (Arduino)
+## 🏠 Smart Home System
 
-- Sensor-based home automation
-- Arduino programming
+- Arduino-based Home Automation
+- Sensor Integration
+- Embedded Programming
 
 ## 🤖 Arduino Sumo Robot
 
-- Object detection
-- Motor control
-- Autonomous navigation
+- Autonomous Navigation
+- Object Detection
+- Motor Control
 
 ## 🔐 Web Security Labs
 
-- PortSwigger Labs
-- TryHackMe
-- Reconnaissance
+- PortSwigger Web Security Academy
+- TryHackMe Labs
 - Authentication Testing
 - Injection Attacks
+- Reconnaissance
 
 ---
 
 # 🌱 Currently Learning
 
 - Penetration Testing
-- Artificial Intelligence
-- LLM (Large Language Models)
-
----
-
-# 📜 Certifications
-
-| Certification | Provider | Date |
-|---------------|----------|------|
-| ✅ Web Penetration Testing | Orange Digital Center | 2026 |
-| ✅ Advanced Web Application Penetration Testing | Udemy | 2026 |
-| ✅ Red Teaming & Ethical Hacking | Red Nexus | In Progress |
-| ✅ Cybersecurity for Beginners | ITI | 2026 |
-| ✅ Network Security | Udemy | 2026 |
-| ✅ CompTIA Network+ | Self-Study | 2025 |
+- Artificial Intelligence & LLMs
+- Embedded Systems
+- IoT Security
 
 ---
 
@@ -129,12 +136,8 @@
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
-<a href="https://github.com/yousefbahgt">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="mailto:yousefbahgt31@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
@@ -142,10 +145,8 @@
 
 <div align="center">
 
-## 💡 Quote
-
-> "Learning never exhausts the mind."  
-> **— Leonardo da Vinci**
+> **"Learning never exhausts the mind."**  
+> — Leonardo da Vinci
 
 ⭐ Thanks for visiting my profile!
 
